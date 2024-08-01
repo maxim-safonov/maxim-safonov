@@ -12,7 +12,6 @@ My name is Max and this is the best repository you've ever seen!
 
 
 ![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif) 
-![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif) 
+![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif) 
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
