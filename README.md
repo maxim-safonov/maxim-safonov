@@ -1,4 +1,4 @@
-
+![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/github-header-image.png)
 ## Hi there 👋
 
 My name is Max and this is the best repository you've ever seen!
