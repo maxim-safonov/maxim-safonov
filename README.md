@@ -10,3 +10,4 @@ My name is Max and this is the best repository you've ever seen!
 - 📫 To reach me telegram: @Maxer_saf
 - ⚡ Fun fact: corgi lover
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
