@@ -11,7 +11,3 @@ My name is Max and this is the best repository you've ever seen!
 - ⚡ Fun fact: corgi lover
 
 [![My Skills](https://skillicons.dev/icons?i=apple,discord,figma,pycharm&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=idea,instagram,notion,gmail&theme=dark)](https://skillicons.dev) 
-
-![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif) 
-![Image alt](https://github.com/maxim-safonov/maxim-safonov/blob/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif) 
-
